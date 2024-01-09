@@ -1,0 +1,18 @@
+{
+    "expenses": [
+      {
+        "id": 1,
+        "name": "Expense 1",
+        "amount": 50.00,
+        "date": "2024-01-15"
+      },
+      {
+        "id": 2,
+        "name": "Expense 2",
+        "amount": 30.00,
+        "date": "2024-01-16"
+      }
+      
+    ]
+  }
+  
